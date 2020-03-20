@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['thisClick',['$0'],['item.link']]]]]}}" class="tool-item" bindtap="__e"><view class="tool-icon" style="{{'background-color:'+(item.bgColor)+';'}}"><view class="{{[item.icon]}}"></view></view><view class="tool-text">{{''+item.text+''}}</view></view>

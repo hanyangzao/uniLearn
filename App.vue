@@ -13,6 +13,8 @@ export default {
 </script>
 
 <style>
+@import url("./static/fonts/iconfont.css");
+@import url("./components/feng-parse/parse.css");
 /* 解决头条小程序组件内引入字体不生效的问题 */
 /* #ifdef MP-TOUTIAO */
 @font-face {

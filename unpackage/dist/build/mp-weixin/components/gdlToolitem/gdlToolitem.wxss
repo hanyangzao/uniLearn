@@ -1,0 +1,1 @@
+.tool-item{text-align:center}.tool-item .tool-icon{font-size:30rpx;width:100rpx;height:100rpx;margin:auto;line-height:100rpx;border-radius:50rpx;color:#fff}.tool-item .tool-icon .iconfont{font-size:50rpx}.tool-item .tool-text{margin-top:16rpx;font-size:24rpx;color:#444}

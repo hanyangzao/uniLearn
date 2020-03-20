@@ -1,0 +1,1 @@
+<view><view class="historyList"><block wx:for="{{historyList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="item"><view class="mianInfo"><view class="info"><view class="time">{{''+item.year+"-"+item.month+"-"+item.day+''}}</view><view class="title">{{''+item.title+''}}</view></view></view></view></block></view></view>
